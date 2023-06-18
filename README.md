@@ -1,2 +1,2 @@
-# Training-bike-DataSet
+# Training diamond dataset
 Regression DataSet

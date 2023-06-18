@@ -1,2 +1,2 @@
 # Training diamond dataset
-Regression DataSet
+0.9990 accuracy
